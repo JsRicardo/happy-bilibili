@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-url = 'https://oapi.dingtalk.com/robot/send?access_token=ae70cfacc4809d5c8494d6695f2971cbfc25e411e2be798432c92d533c292247'
+url = 'https://oapi.dingtalk.com/robot/send?access_token=00d00be016ed8a184627543a971d882f9f9c2c7b4da4a0a625bbbbe8ec80d1a8'
 
 ups = ['37663924','437316738','390461123','517327498','254463269','163637592']
 
